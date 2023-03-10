@@ -29,7 +29,7 @@ Doubly linked list
 Circular linked list 
 Doubly circular linked list
 
-
+---------------------------------------------------------------------------------------------------------------
 
 عنوان المقالة : what the difference between the data that you store in stack and heap 
 
